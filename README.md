@@ -432,10 +432,7 @@ db.robot_commands.find({status: "pending"})
 - [ ] Web dashboard for monitoring
 - [ ] Multi-robot coordination
 - [ ] Advanced pathfinding algorithms
-- [ ] Patient mobile app integration
-- [ ] Voice biometrics for authentication
 - [ ] Integration with hospital information systems
-- [ ] Real-time video streaming
 - [ ] Prescription management system
 
 ## 🐛 Troubleshooting
@@ -485,9 +482,7 @@ Contributions are welcome! Please:
 4. Add tests if applicable
 5. Submit a pull request
 
-## 📄 License
 
-This project is licensed under the MIT License.
 
 ## 🙏 Acknowledgments
 
@@ -501,11 +496,11 @@ This project is licensed under the MIT License.
 
 For issues and questions:
 - Open an issue on GitHub
-- Email: support@nami-hospital.ai
-- Documentation: https://docs.nami-hospital.ai
+- Email: Tusharhegde.dev@gmail.com
+
 
 ---
 
-**Built with ❤️ for better healthcare**
+**Built with ❤️ for better healthcare as an project**
 
 🏥 Nami Hospital Assistant - Making hospitals smarter, one task at a time.
