@@ -1,0 +1,12 @@
+
+livekit-plugins-google
+livekit-agents
+livekit-plugins-noise-cancellation
+livekit-plugins-turn-detector
+httpx>=0.27.0
+python-dotenv
+mem0ai
+pydantic>=2.0.0
+langchain_community
+requests
+livekit-plugins-silero
